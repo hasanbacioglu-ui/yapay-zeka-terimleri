@@ -5,7 +5,7 @@ Türkçe Yapay Zeka Terimleri
 
 *Yapay zeka ajanları dünyasının kapsamlı sözlüğü - Temel kavramlardan ileri düzey kurumsal uygulamalara*
 
-Bu rehber, yapay zeka alanındaki en güncel terimleri ve kavramları açıklar. Geliştiriciler, ürün yöneticileri ve öğrenmek isteyenler için hazırlanmıştır. Son güncelleme: **Mart 2025**
+Bu rehber, yapay zeka alanındaki en güncel terimleri ve kavramları açıklar. Geliştiriciler, ürün yöneticileri ve öğrenmek isteyenler için hazırlanmıştır. Son güncelleme: **Mart 2026**
 
 ---
 
