@@ -1,27 +1,6 @@
 # yapay-zeka-terimleri
 Türkçe Yapay Zeka Terimleri
 
-GitHub'daki o sayfaya bakalım, sonra hem içeriği Türkçe'ye çevirip güncel terimlerle yeniden düzenleyeyim hem de GitHub'ı nasıl kullanacağını anlatayım.
-Harika! O sayfadaki **Agentic AI (Ajanik Yapay Zeka)** terimlerinin tamamını içeren kapsamlı bir Türkçe rehber hazırlıyorum. Önce GitHub'ı kısaca açıklayayım, sonra içeriği Türkçe'ye çevirip en güncel terimlerle zenginleştireyim.
-
----
-
-## 🐙 GitHub Nedir? Nasıl Açılır?
-
-**GitHub**, yazılımcıların projelerini sakladığı, paylaştığı ve birlikte çalıştığı bir internet sitesidir. Tıpkı Instagram'ın fotoğraf paylaşımı için olduğu gibi, GitHub da kod paylaşımı içindir.
-
-**Nasıl Açılır:**
-1. `github.com` adresine git
-2. Sağ üstte "Sign up" (Kaydol) butonuna tıkla
-3. E-posta, şifre ve kullanıcı adı oluştur
-4. Sana gönderilen doğrulama kodunu gir
-
-**Paylaşılan Linki Görme:**
-- Verdiğin linki (`github.com/zechariahkasina/...`) tarayıcının adres çubuğuna yazıp Enter'a bas
-- İçerik direkt karşına çıkar, indirmene gerek yoktur
-
----
-
 # 🤖 Ajanik YZ (Agentic AI) Terimler Rehberi
 
 *Yapay zeka ajanları dünyasının kapsamlı sözlüğü - Temel kavramlardan ileri düzey kurumsal uygulamalara*
