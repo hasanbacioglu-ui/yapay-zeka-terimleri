@@ -1,5 +1,9 @@
-# yapay-zeka-terimleri
-Türkçe Yapay Zeka Terimleri
+---
+title: "Türkçe Yapay Zeka Terimleri Rehberi"
+description: "Agentic AI ve yapay zeka alanındaki güncel terimlerin kapsamlı Türkçe sözlüğü"
+---
+
+# 🤖 Ajanik YZ (Agentic AI) Terimler Rehberi
 
 # 🤖 Ajanik YZ (Agentic AI) Terimler Rehberi
 
