@@ -5,8 +5,6 @@ description: "Agentic AI ve yapay zeka alanındaki güncel terimlerin kapsamlı 
 
 # 🤖 Ajanik YZ (Agentic AI) Terimler Rehberi
 
-# 🤖 Ajanik YZ (Agentic AI) Terimler Rehberi
-
 *Yapay zeka ajanları dünyasının kapsamlı sözlüğü - Temel kavramlardan ileri düzey kurumsal uygulamalara*
 
 Bu rehber, yapay zeka alanındaki en güncel terimleri ve kavramları açıklar. Geliştiriciler, ürün yöneticileri ve öğrenmek isteyenler için hazırlanmıştır. Son güncelleme: **Mart 2026**
